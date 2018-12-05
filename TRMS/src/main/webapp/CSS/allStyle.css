@@ -1,0 +1,39 @@
+@charset "ISO-8859-1";
+
+body{
+	text-align: center;
+}
+
+.form-control{
+	width: 300px;
+}
+
+#signinform{
+	display: inline-block;
+}
+
+#myFirstButton, .navbar-dark, .bg-dark{
+	background-color: #bb99ff;
+	border-color: #bb99ff;
+}
+
+#myFirstButton:hover{
+	background-color: #884dff;
+	border-color: #884dff;
+}
+
+.form-row, .mb-3{
+	display: inline-block;
+}
+
+#myNav{
+	background-color: #6b00b3 !important;
+	
+}
+
+.table-striped{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+}

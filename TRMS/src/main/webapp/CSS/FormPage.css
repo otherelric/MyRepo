@@ -1,0 +1,20 @@
+@charset "ISO-8859-1";
+
+.btn-primary{
+	background-color: #bb99ff;
+	border-color:#bb99ff;
+}
+
+.btn-primary:hover{
+	background-color: #884dff;
+	border-color: #884dff;
+}
+
+form{
+	margin: 20px 350px 20px;
+}
+
+#myNav{
+	background-color: #6b00b3 !important;
+	
+}
