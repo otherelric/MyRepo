@@ -32,8 +32,4 @@ public class AccountDAO {
 		}
 		return acnt;
 	}
-	String s = "";
-	if(s.equals("yes")){
-		System.out.println("Hello");
-	}
 }
