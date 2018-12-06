@@ -7,7 +7,7 @@ import java.sql.SQLException;
 
 import com.revature.domain.Account;
 import com.revature.util.ConnFactory;
-//hi
+
 public class AccountDAO {
 	//static Connection conn = ConnFactory.getConnectionFactory().createConnection();
 	
@@ -31,5 +31,9 @@ public class AccountDAO {
 			System.out.println("Unable to reach DataBase");
 		}
 		return acnt;
+	}
+	String s = "";
+	if(s.equals("yes")){
+		System.out.println("Hello");
 	}
 }
